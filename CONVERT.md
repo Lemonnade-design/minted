@@ -13,7 +13,7 @@ using that codebase's own architecture, state management and API layer.
    exact shapes, which prototype version to build), then the source. Go through the checklist line by line before you
    start and again before you call the flow done; every line is required.
 3. For every L3 component used, look it up in the design system:
-   https://kirtanyak-pe.github.io/lemonnade-v3-docs/llms.txt (component pages, props, tokens, rules). The component
+   https://lemonnade-design.github.io/lemonnade-v3-docs/llms.txt (component pages, props, tokens, rules). The component
    name in code = the component name in Figma (`Button` = "L3: Button").
 4. If you can open web pages: `#/<screen-id>` plays one screen in a 392 × 872 mockup (the design size), clickable. Figma links are in the screen table.
 

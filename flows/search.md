@@ -1,10 +1,10 @@
 # Flow: Search (`search`)
 
-> One self-contained file for converting this flow to another platform. Read https://kirtanyak-pe.github.io/minted/CONVERT.md first. Design system: Lemonnade V3 @ `cdf73c6` (components, tokens and rules: https://kirtanyak-pe.github.io/lemonnade-v3-docs/llms.txt).
+> One self-contained file for converting this flow to another platform. Read https://lemonnade-design.github.io/minted/CONVERT.md first. Design system: Lemonnade V3 @ `cdf73c6` (components, tokens and rules: https://lemonnade-design.github.io/lemonnade-v3-docs/llms.txt).
 
 Search US stocks and ETFs.
 
-Prototype: https://kirtanyak-pe.github.io/minted/#/search · machine-readable: https://kirtanyak-pe.github.io/minted/flows/search.json
+Prototype: https://lemonnade-design.github.io/minted/#/search · machine-readable: https://lemonnade-design.github.io/minted/flows/search.json
 
 ## Screens
 

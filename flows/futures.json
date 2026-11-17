@@ -5,11 +5,11 @@
   "designSystem": {
     "name": "Lemonnade V3 (L3)",
     "commit": "cdf73c6",
-    "docs": "https://kirtanyak-pe.github.io/lemonnade-v3-docs/llms.txt"
+    "docs": "https://lemonnade-design.github.io/lemonnade-v3-docs/llms.txt"
   },
   "prototype": {
-    "flow": "https://kirtanyak-pe.github.io/minted/#/futures",
-    "screen": "https://kirtanyak-pe.github.io/minted/#/<screen-id>"
+    "flow": "https://lemonnade-design.github.io/minted/#/futures",
+    "screen": "https://lemonnade-design.github.io/minted/#/<screen-id>"
   },
   "screens": [],
   "files": [

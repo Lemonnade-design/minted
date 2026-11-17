@@ -1,10 +1,10 @@
 # Flow: Order (`order`)
 
-> One self-contained file for converting this flow to another platform. Read https://kirtanyak-pe.github.io/minted/CONVERT.md first. Design system: Lemonnade V3 @ `cdf73c6` (components, tokens and rules: https://kirtanyak-pe.github.io/lemonnade-v3-docs/llms.txt).
+> One self-contained file for converting this flow to another platform. Read https://lemonnade-design.github.io/minted/CONVERT.md first. Design system: Lemonnade V3 @ `cdf73c6` (components, tokens and rules: https://lemonnade-design.github.io/lemonnade-v3-docs/llms.txt).
 
 Order pads (buy, sell, limit, SIP), leverage acknowledgement and quiz, processing, placed and failed.
 
-Prototype: https://kirtanyak-pe.github.io/minted/#/order · machine-readable: https://kirtanyak-pe.github.io/minted/flows/order.json
+Prototype: https://lemonnade-design.github.io/minted/#/order · machine-readable: https://lemonnade-design.github.io/minted/flows/order.json
 
 ## Screens
 
